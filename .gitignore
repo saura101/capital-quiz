@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+solution.js
+index.js
+index1.ejs
+.env
